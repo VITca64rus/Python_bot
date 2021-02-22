@@ -1,1 +1,1 @@
-web: python telega.py
+worker: python telega.py
